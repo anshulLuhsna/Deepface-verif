@@ -4,3 +4,4 @@ deepface
 numpy
 Pillow
 opencv-python-headless
+tensorflow-cpu==2.14.0  # Replace with the version you need
